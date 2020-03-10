@@ -1,4 +1,4 @@
-# About me:
+<!-- # About me:
 I am full stack test development engg with 7+ years of experience in test automation of web, mobile, api and desktop app automation. Worked on both functional and non fuctional QA activies and designed frameworks using different automation tools. Good experience in QA devops activities using Docker GoCD and Jenkins.
 
 ### Technical Expertise on:
@@ -17,4 +17,4 @@ I am full stack test development engg with 7+ years of experience in test automa
 * Email:ritdhwaj@yahoo.in
 
 ![Ritdhwaj](/images/ritdhwaj.jpg)
-Format: ![Alt Text](https://ritdhwaj.github.io)
+Format: ![Alt Text](https://ritdhwaj.github.io) -->
