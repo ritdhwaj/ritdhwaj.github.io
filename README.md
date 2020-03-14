@@ -1,5 +1,4 @@
-
-<<<<<<< HEAD
+<!-- s
 =======
 ### Technical Expertise on:
 
@@ -23,4 +22,4 @@
 * Email:ritdhwaj@yahoo.in
 
 ![Ritdhwaj](/images/ritdhwaj.jpg)
->>>>>>> 62432751bfcf8b9c6e54fb8ebaddb867f6ac20b6
+ -->
