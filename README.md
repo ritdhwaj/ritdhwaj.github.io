@@ -25,4 +25,4 @@
  -->
 
 ## Portfolio:
-can be viewed by moving to hhtps://ritdhwaj.github.io
+can be viewed by moving to https://ritdhwaj.github.io
