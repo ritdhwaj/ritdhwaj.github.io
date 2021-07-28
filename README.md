@@ -23,3 +23,6 @@
 
 ![Ritdhwaj](/images/ritdhwaj.jpg)
  -->
+
+## Portfolio:
+can be viewed by moving to hhtps://ritdhwaj.github.io
